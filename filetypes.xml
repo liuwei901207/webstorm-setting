@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tpl" type="Native" />
       <mapping pattern="breadcrumb.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
