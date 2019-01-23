@@ -10,6 +10,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="gltf" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="rec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
