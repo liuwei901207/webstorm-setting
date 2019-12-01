@@ -2,15 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="user" type="JavaScript" />
-      <mapping ext="dae" type="Native" />
       <mapping ext="tpl" type="Native" />
+      <mapping ext="dae" type="Native" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="breadcrumb.vue" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
-      <mapping pattern="breadcrumb.vue" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="gltf" type="PLAIN_TEXT" />
       <mapping ext="rec" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
