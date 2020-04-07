@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="user" type="JavaScript" />
+      <mapping pattern="upload" type="JavaScript" />
       <mapping ext="tpl" type="Native" />
       <mapping ext="dae" type="Native" />
       <mapping pattern="1" type="PLAIN_TEXT" />
